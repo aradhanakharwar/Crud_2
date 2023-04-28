@@ -1,0 +1,20 @@
+.page{
+  position: fixed;
+  top:0;
+  height:100%;
+  width:100%;
+  background-color: white;
+  text-align: center;
+  justify-content: center;
+  padding-top: 300px;
+
+
+  /* position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+}

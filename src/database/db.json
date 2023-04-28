@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Riya",
+      "email": "riya@gmail.com",
+      "password": "123441421",
+      "phone": "7876788878",
+      "state": "Tamil Nadu",
+      "id": 4
+    },
+    {
+      "name": "Aradhana",
+      "email": "aradhana@gmail.com",
+      "password": "44545",
+      "phone": "7876788878",
+      "state": "Punjab",
+      "id": 5
+    }
+  ]
+}
